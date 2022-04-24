@@ -1,0 +1,59 @@
+body {
+  background-color: #424242 !important;
+  font-family: "Courier New", Courier, monospace;
+}
+ul{
+  list-style: none;
+}
+li {
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  font-size: xx-large;
+  margin-right: 95px;
+  font-weight: bolder;
+}
+
+.MoviePoster {
+  margin-right: 20px;
+  height: 60%;
+  border-radius: 20px;
+  box-shadow: 0 0 0 #424242;
+}
+
+h1 {
+  text-align: center;
+  color: aliceblue;
+}
+
+/* CSS */
+#homeBtn{ 
+  height: 40px;
+  border: 1px solid aliceblue;
+  border-radius: 5px;
+  background-color: inherit;
+  color: aliceblue;
+  transition: all .2s ease-in-out;
+}
+#homeBtn:hover{
+  background-color: aliceblue;
+  color: #424242;
+}
+
+.button-52 {
+  height: 60px;
+  width: 95%;
+  border: 1px solid aliceblue;
+  border-radius: 5px;
+  background-color: inherit;
+  color: aliceblue;
+  transition: all .2s ease-in-out;
+}
+.button-52:hover{
+  background-color: aliceblue;
+  color: #424242;
+}
+
+
+
+
